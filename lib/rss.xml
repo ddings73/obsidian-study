@@ -1,11 +1,10 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 04 Feb 2025 14:13:45 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 04 Feb 2025 14:13:45 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[기여한 부분]]></title><description><![CDATA[ 
- ]]></description><link>취업\프로젝트\funteer\기여한-부분.html</link><guid isPermaLink="false">취업/프로젝트/Funteer/기여한 부분.md</guid><pubDate>Tue, 04 Feb 2025 11:28:56 GMT</pubDate></item><item><title><![CDATA[프로젝트 소개]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 05 Feb 2025 03:36:39 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 05 Feb 2025 03:36:38 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[프로젝트 소개]]></title><description><![CDATA[ 
  <br>
 2023.01.09 ~ 2023.02.17 ( 약 7주, FE 3명, BE 3명 ) / 💾 <a data-tooltip-position="top" aria-label="https://github.com/ddings73/FUNTEER" rel="noopener nofollow" class="external-link" href="https://github.com/ddings73/FUNTEER" target="_blank">Github</a> 
 프론트 프레임워크 : React 18.2.0<br>
 백엔드 프레임워크 : Spring Boot 2.7.7<br>
 데이터베이스 : MySQL 8.0.32
-<br><br><br><br>CORS 및 인증/인가 프로세스를 Spring과 독립적으로 관리하기위해 사용했습니다.<br><br>RESTful API 구현을 목적으로 서버와 독립적인 사용자 인증정보 관리를 위해 토큰기반의 인증을 결정했습니다.<br><br>WebRTC 환경 구성에 필요한 STUN/TRUN 서버 등의 구성요소를 도커 이미지의 형태로 손쉽게 구현할 수 있기에 선택했습니다.<br><br>공통코드를 대신하여 펀딩게시물의 상태관리를 위해 사용했습니다.<br><br>펀딩 플랫폼인만큼 사용자 접근성을 생각해볼 때, 가장 많이 사용하는 메신저 중 하나기 때문에 선택헀습니다.<br><br><br>펀딩 게시물 상태파악 목적의 코드구현에 의견충돌이 있었습니다. 공통코드처럼 DB에 상태코드를 저장하는 방식과 Enum을 이용해 관리하는 방식 사이에서 의견충돌이 있었습니다.<br><br>먼저 양 측의 의견을 모두 들어보고 장단점을 정리한 뒤, 다수결로 Enum을 선택했습니다.<br>
+<br><br><br><br>펀딩 게시물 상태파악 목적의 코드구현에 의견충돌이 있었습니다. 공통코드처럼 DB에 상태코드를 저장하는 방식과 Enum을 이용해 관리하는 방식 사이에서 의견충돌이 있었습니다.<br><br>먼저 양 측의 의견을 모두 들어보고 장단점을 정리한 뒤, 다수결로 Enum을 선택했습니다.<br>
 DB에 상태코드 저장
 
 <br>서비스 확장에 영향없는 상태코드 접근
@@ -18,8 +17,7 @@ Enum을 통한 상태코드 관리
 <br>코드자체에 의미 부여가 가능하므로 이해가 쉬움
 <br>서비스 설계상 펀딩과 한번 정해진 상태코드 목록이 유지될 가능성이 높음
 
-]]></description><link>취업\프로젝트\funteer\프로젝트-소개.html</link><guid isPermaLink="false">취업/프로젝트/Funteer/프로젝트 소개.md</guid><pubDate>Tue, 04 Feb 2025 11:25:21 GMT</pubDate></item><item><title><![CDATA[기여한 부분]]></title><description><![CDATA[ 
- ]]></description><link>취업\프로젝트\onthemars\기여한-부분.html</link><guid isPermaLink="false">취업/프로젝트/Onthemars/기여한 부분.md</guid><pubDate>Tue, 04 Feb 2025 11:27:13 GMT</pubDate></item><item><title><![CDATA[프로젝트 소개]]></title><description><![CDATA[ 
+<br><br><br>CORS 및 인증/인가 프로세스를 Spring과 독립적으로 관리하기위해 사용했습니다.<br><br>RESTful API 구현을 목적으로 서버와 독립적인 사용자 인증정보 관리를 위해 토큰기반의 인증을 결정했습니다.<br><br>WebRTC 환경 구성에 필요한 STUN/TRUN 서버 등의 구성요소를 도커 이미지의 형태로 손쉽게 구현할 수 있기에 선택했습니다.<br><br>공통코드를 대신하여 펀딩게시물의 상태관리를 위해 사용했습니다.<br><br>펀딩 플랫폼인만큼 사용자 접근성을 생각해볼 때, 가장 많이 사용하는 메신저 중 하나기 때문에 선택헀습니다.]]></description><link>취업\프로젝트\funteer\프로젝트-소개.html</link><guid isPermaLink="false">취업/프로젝트/Funteer/프로젝트 소개.md</guid><pubDate>Tue, 04 Feb 2025 14:19:51 GMT</pubDate></item><item><title><![CDATA[프로젝트 소개]]></title><description><![CDATA[ 
  <br>
 2023.02.20 ~ 2023.04.07 ( 약 7주, FE 3명, BE 3명 ) / 💾 <a data-tooltip-position="top" aria-label="https://github.com/ddings73/Onthemars" rel="noopener nofollow" class="external-link" href="https://github.com/ddings73/Onthemars" target="_blank">Github</a> 
 프론트 프레임워크 : React 18.2.0<br>
@@ -27,7 +25,19 @@ Enum을 통한 상태코드 관리
 데이터베이스 : MariaDB 10.6.11<br>
 메타버스 : Unity 2021.3.9f<br>
 블록체인 서버 : Geth 1.11.6-unstable-b1acaf47
-<br><br><br><br>CORS 및 인증/인가 프로세스를 Spring과 독립적으로 관리하기위해 사용했습니다.<br><br>서비스에 로그인한 사용자의 인증정보를 stateless하게 유지하기 위해 사용했습니다.<br><br>목표로 하는 알림기능이 양방향 통신을 요구하지 않았고, 사용자가 다른 활동 중이어도 알림이 도착하는 것을 원했기때문에 사용했습니다.<br><br>비동기적 작업처리를 통해 알림기능 구현에서 응답시간이 길어지는 문제를 해결하기 위해 사용했습니다.<br><br>데이터 유효기간과 빠른 접근속도를 바탕으로 JWT의 Refresh Token 관리하기 위해 사용했습니다.<br><br>빠른 학습 및 적용을 위한 사전조사를 통해 이더리움 기반의 NFT 로직작성을 위해 사용했습니다.<br><br>공식문서의 완성도와 관련 자료를 바탕으로 블록체인 거래 및 처리를 위한 서버로 사용했습니다.<br><br>블록체인 서버와의 통신 및 거래를 위한 네트워크 접속목적으로 사용했습니다.<br><br><br>
+<br><br><br><br><br>
+<br>AWS EC2 우분투 환경에서 Nginx 구성
+<br>GitLab, Jenkins를 이용한 CI/CD 구축
+<br>Docker Hub를 이용한 개발 → 운영서버 이미지 전달
+<br>Blue/Green 전략을 이용한 무중단배포 구현
+<br>블록체인 환경을 위한 Geth 서버 구성
+<br><br>
+<br>서비스 내 사용자 인증관리를 위한 JWT 사용
+<br><br>
+<br>Solidity 언어를 이용한 NFT 생성, 거래, 조합 등 로직작성
+<br><br>
+<br>response 시간 지연문제 해결을 위한 RabbitMQ 사용
+<br><br><br>
 <br>팀 내 블록체인과 관련된 경험이 있는 인원이 전무한 상황이었습니다. 블록체인 로직작성에 사용되는 언어가 무엇인지, 통신이 어떻게 이뤄지는지 등에 대한 지식이 부족한 상황이었습니다.
 <br>첫 서버구성 이었습니다. AWS, Linux 명령어와 CI/CD의 개념 등의 지식은 있었지만 직접적인 구성경험이 없는 상황이었습니다.
 <br>알림기능이 응답시간에 영향을 주는 문제가 있었습니다. request에 의한 작업처리 중, 관련된 변경사항이 생기면 알림이 발생하는 방식으로 구현했으나, 알림 프로세스로 인해 response 시간이 증가하는 문제를 발견했습니다.
@@ -63,28 +73,46 @@ RabbitMQ 도입 전<br>
 <img src="취업\프로젝트\onthemars\images\rabbitmq_after.png"><br>
 RabbitMQ 도입 후<br>
 요청 수가 증가하더라도 응답시간에 영향이 없는 것을 확인하였습니다.
-]]></description><link>취업\프로젝트\onthemars\프로젝트-소개.html</link><guid isPermaLink="false">취업/프로젝트/Onthemars/프로젝트 소개.md</guid><pubDate>Tue, 04 Feb 2025 11:25:06 GMT</pubDate><enclosure url="취업\프로젝트\onthemars\images\rabbitmq_before.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="취업\프로젝트\onthemars\images\rabbitmq_before.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[기여한 부분]]></title><description><![CDATA[ 
- ]]></description><link>취업\프로젝트\repomon\기여한-부분.html</link><guid isPermaLink="false">취업/프로젝트/Repomon/기여한 부분.md</guid><pubDate>Tue, 04 Feb 2025 11:28:50 GMT</pubDate></item><item><title><![CDATA[프로젝트 소개]]></title><description><![CDATA[ 
+<br><br><br>CORS 및 인증/인가 프로세스를 Spring과 독립적으로 관리하기위해 사용했습니다.<br><br>서비스에 로그인한 사용자의 인증정보를 stateless하게 유지하기 위해 사용했습니다.<br><br>목표로 하는 알림기능이 양방향 통신을 요구하지 않았고, 사용자가 다른 활동 중이어도 알림이 도착하는 것을 원했기때문에 사용했습니다.<br><br>비동기적 작업처리를 통해 알림기능 구현에서 응답시간이 길어지는 문제를 해결하기 위해 사용했습니다.<br><br>데이터 유효기간과 빠른 접근속도를 바탕으로 JWT의 Refresh Token 관리하기 위해 사용했습니다.<br><br>빠른 학습 및 적용을 위한 사전조사를 통해 이더리움 기반의 NFT 로직작성을 위해 사용했습니다.<br><br>공식문서의 완성도와 관련 자료를 바탕으로 블록체인 거래 및 처리를 위한 서버로 사용했습니다.<br><br>블록체인 서버와의 통신 및 거래를 위한 네트워크 접속목적으로 사용했습니다.]]></description><link>취업\프로젝트\onthemars\프로젝트-소개.html</link><guid isPermaLink="false">취업/프로젝트/Onthemars/프로젝트 소개.md</guid><pubDate>Wed, 05 Feb 2025 03:08:47 GMT</pubDate><enclosure url="취업\프로젝트\onthemars\images\rabbitmq_before.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;취업\프로젝트\onthemars\images\rabbitmq_before.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[프로젝트 소개]]></title><description><![CDATA[ 
  <br><br>
 2023.04.10 ~ 2023.05.26 ( 약 7주, FE 2명, BE 4명 ) / 💾 <a data-tooltip-position="top" aria-label="https://github.com/ddings73/Repomon" rel="noopener nofollow" class="external-link" href="https://github.com/ddings73/Repomon" target="_blank">Github</a>
 프론트 프레임워크 : React 18.2.0<br>
 백엔드 프레임워크 : Spring Boot 2.7.10<br>
 데이터베이스 : MySQL 8.0.31
-<br><br><img alt="architecture.png" src="취업\프로젝트\repomon\images\architecture.png"><br><br><br><br><br>Java 환경에서 Github 정보를 얻어오기 위한 라이브러리로 사용했습니다.<br><br>Repository 갱신과정에서 이미 진행중인 요청에 대한 반복요청을 방지하기 위해 사용했습니다.<br><br>캐싱을 이용하여 조회속도를 단축하기위해 Repository 리스트 API 및 상세 API에 사용했습니다.<br><br>ERD 설계에 대응하는 초기 Entity 구성을 통해 서비스 구현에 집중하기 위해 사용했습니다.<br><br>다양한 플러그인과 많은 참고자료를 바탕으로 CI/CD 구성을 위해 사용했습니다.<br><br>Dockerfile을 이용한 손쉬운 이미지 빌드 및 버전관리의 목적으로 사용했습니다.<br><br>property 파일에서 민감한 정보들이 원격저장소에 게시되지 않도록 하되,<br>
-clone 및 pull 에서는 최신정보를 받아오기위해 사용했습니다.<br><br><br>사용자 Repository 갱신 및 조회 API 구성이후, 내부 테스트과정에서 API 요청에 사용되는 토큰의 제한량이 고갈되는 문제가 발생했습니다.<br>레포지토리 상세페이지에 진입할 때마다 Repository 갱신 요청이 발생하고 있었고, 동일한 대상으로의 반복적인 요청을 제한하는 로직이 부재했습니다.<br>사용중인 API 토큰의 제한량은 1시간에 5000개였습니다.<br><br>
-총 2가지의 방법을 문제해결에 사용했습니다.
+<br><br><br><br><br>
+<br>Public Repository 정보 획득을 위한 내부로직 구현
+<br>Repository 상세페이지 API 작성
+<br>Repository 리스트 API 작성
+<br>AOP를 활용하여 중복요청에서의 API 토큰 사용량 개선
+<br>Redis 캐싱을 통한 조회 속도 단축 ( 6.75s → 11ms )
+<br><br><br>사용자 Repository 갱신 및 조회 API 구성이후, 내부 테스트과정에서 API 요청에 사용되는 토큰의 제한량이 고갈되는 문제가 발생했습니다.<br>레포지토리 상세페이지에 진입할 때마다 Repository 갱신 요청이 발생하고 있었고, 동일한 대상으로의 반복적인 요청을 제한하는 로직이 부재했습니다.<br>사용중인 API 토큰의 제한량은 1시간에 5000개였습니다.<br><br>총 2가지의 방법을 문제해결에 사용했습니다.<br>
+1. AOP를 활용해 반복되는 요청 제한 
+유저 ID와 Repository 고유의 식별 ID를 Set으로 관리했습니다. Github 정보를 가져오는 GHUtils 내에서 AOP가 적용되지 않아야하는 메서드는 @NotAOP 애노테이션을 사용해 필터링했습니다.
 <br>
-1. AOP를 활용해 반복되는 요청 제한 유저 ID와 Repository 고유의 식별 ID를 Set으로 관리했습니다. Github 정보를 가져오는 GHUtils 내에서 AOP가 적용되지 않아야하는 메서드는 @NotAOP 애노테이션을 사용해 필터링했습니다.
-<br>
-2. API 요청에 사용되는 토큰 개수 증가 기존의 시스템에서는 API요청에 공통적으로 하나의 토큰을 사용했기 때문에, 사용자 수와 토큰의 소모속도가 비례관계를 띄었습니다. 회의과정에서 Github 소셜로그인에 사용되는 AccessToken이 API 요청에 사용될 수 있다는 사실을 파악하여, DB를 통해 해당 토큰을 관리했습니다.
+2. API 요청에 사용되는 토큰 개수 증가 
+기존의 시스템에서는 API요청에 공통적으로 하나의 토큰을 사용했기 때문에, 사용자 수와 토큰의 소모속도가 비례관계를 띄었습니다. 회의과정에서 Github 소셜로그인에 사용되는 AccessToken이 API 요청에 사용될 수 있다는 사실을 파악하여, DB를 통해 해당 토큰을 관리했습니다.
 이후, AOP를 이용해 Github API 요청에 사용자 개인의 토큰을 사용하도록 수정했습니다.
 <br>
 이 외에도, 토큰 사용량 개선 과정에서 레포지토리의 조회속도를 개선했습니다.
 매번 API 요청을 통해 실시간 정보를 받아오던 프로세스에서 갱신버튼을 추가하고, Redis를 도입함으로써, 커밋기록을 조회하던 요청을 기준으로 응답시간을 약 6.75초에서 11ms 대로 개선했습니다.
-]]></description><link>취업\프로젝트\repomon\프로젝트-소개.html</link><guid isPermaLink="false">취업/프로젝트/Repomon/프로젝트 소개.md</guid><pubDate>Tue, 04 Feb 2025 11:24:53 GMT</pubDate><enclosure url="취업\프로젝트\repomon\images\architecture.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="취업\프로젝트\repomon\images\architecture.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[안녕하세요, 백엔드 개발자 안명수입니다.]]></title><description><![CDATA[ 
+<br><br><br>
+Java 환경에서 Github 정보를 얻어오기 위한 라이브러리로 사용했습니다.
+<br><br>
+Repository 갱신과정에서 이미 진행중인 요청에 대한 반복요청을 방지하기 위해 사용했습니다.
+<br><br>
+캐싱을 이용하여 조회속도를 단축하기위해 Repository 리스트 API 및 상세 API에 사용했습니다.
+<br><br>
+ERD 설계에 대응하는 초기 Entity 구성을 통해 서비스 구현에 집중하기 위해 사용했습니다.
+<br><br>
+다양한 플러그인과 많은 참고자료를 바탕으로 CI/CD 구성을 위해 사용했습니다.
+<br><br>
+Dockerfile을 이용한 손쉬운 이미지 빌드 및 버전관리의 목적으로 사용했습니다.
+<br><br>
+property 파일에서 민감한 정보들이 원격저장소에 게시되지 않도록 하되,  clone 및 pull 에서는 최신정보를 받아오기위해 사용했습니다.
+]]></description><link>취업\프로젝트\repomon\프로젝트-소개.html</link><guid isPermaLink="false">취업/프로젝트/Repomon/프로젝트 소개.md</guid><pubDate>Wed, 05 Feb 2025 03:35:38 GMT</pubDate></item><item><title><![CDATA[안녕하세요, 백엔드 개발자 안명수입니다.]]></title><description><![CDATA[ 
  <br><br><br><br>Multi column
 Blank container
-  <img src="취업\프로젝트\images\profile_50per.png">
+  <img src="취업\images\profile_50per.png">
 
 Blank container
 <br><br> 안명수( MYEONGSU AHN ) <br><br>
@@ -158,4 +186,4 @@ Java 교육과정( 2022.07.06 ~ 2023.06.30, 1600시간 )
 부울경 지역, Java 전공교육반 종합성적 1등
 <br><br>
 부울경 지역, 공공데이터를 활용한 부동산 서비스 우수상
-<br><br><br><br><br>]]></description><link>취업\포트폴리오.html</link><guid isPermaLink="false">취업/포트폴리오.md</guid><pubDate>Tue, 04 Feb 2025 14:10:19 GMT</pubDate><enclosure url="취업\프로젝트\images\profile_50per.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="취업\프로젝트\images\profile_50per.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><br><br><br><br>]]></description><link>취업\포트폴리오.html</link><guid isPermaLink="false">취업/포트폴리오.md</guid><pubDate>Wed, 05 Feb 2025 00:56:12 GMT</pubDate><enclosure url="취업\images\profile_50per.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;취업\images\profile_50per.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
