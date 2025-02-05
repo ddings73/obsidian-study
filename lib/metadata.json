@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1738729763440,
+  "lastExport": 1738730021445,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -21,14 +21,10 @@
     "취업/images/profile.png",
     "취업/포트폴리오.md",
     "취업/포트폴리오.html",
-    "취업/프로젝트/onthemars/images/로그인.gif",
-    "취업/프로젝트/onthemars/images/mypage.gif",
-    "취업/프로젝트/onthemars/images/nft상세.gif",
-    "취업/프로젝트/onthemars/images/nft조합.gif",
-    "취업/프로젝트/repomon/images/메인-페이지.gif",
-    "취업/프로젝트/repomon/images/마이페이지-및-크롬-확장프로그램.gif",
-    "취업/프로젝트/repomon/images/레포지토리-상세.gif",
-    "취업/프로젝트/repomon/images/캐릭터-카드-생성.png",
+    "취업/프로젝트/funteer/images/funteer-main.gif",
+    "취업/프로젝트/funteer/images/mypage.gif",
+    "취업/프로젝트/funteer/images/fundingcreate.gif",
+    "취업/프로젝트/funteer/images/fundinglist.gif",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -54,8 +50,16 @@
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
+    "취업/프로젝트/onthemars/images/로그인.gif",
+    "취업/프로젝트/onthemars/images/mypage.gif",
+    "취업/프로젝트/onthemars/images/nft상세.gif",
+    "취업/프로젝트/onthemars/images/nft조합.gif",
     "취업/프로젝트/onthemars/images/rabbitmq_before.png",
-    "취업/프로젝트/onthemars/images/rabbitmq_after.png"
+    "취업/프로젝트/onthemars/images/rabbitmq_after.png",
+    "취업/프로젝트/repomon/images/메인-페이지.gif",
+    "취업/프로젝트/repomon/images/마이페이지-및-크롬-확장프로그램.gif",
+    "취업/프로젝트/repomon/images/레포지토리-상세.gif",
+    "취업/프로젝트/repomon/images/캐릭터-카드-생성.png"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -104,10 +108,15 @@
       "dependencies": []
     },
     "취업/프로젝트/Funteer/프로젝트 소개.md": {
-      "modifiedTime": 1738726598669,
-      "sourceSize": 2035,
+      "modifiedTime": 1738730021445,
+      "sourceSize": 2579,
       "exportedPath": "취업/프로젝트/funteer/프로젝트-소개.html",
-      "dependencies": []
+      "dependencies": [
+        "취업/프로젝트/funteer/images/funteer-main.gif",
+        "취업/프로젝트/funteer/images/mypage.gif",
+        "취업/프로젝트/funteer/images/fundingcreate.gif",
+        "취업/프로젝트/funteer/images/fundinglist.gif"
+      ]
     },
     "취업/프로젝트/Onthemars/images/RabbitMQ_after.png": {
       "modifiedTime": 1738726598669,
@@ -202,151 +211,151 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 22375,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 2211,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 29047,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 303,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 1559,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1738729763440,
+      "modifiedTime": 1738730021445,
       "sourceSize": 46622,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -397,6 +406,30 @@
       "modifiedTime": 1738729763440,
       "sourceSize": 98993,
       "exportedPath": "취업/프로젝트/repomon/images/캐릭터-카드-생성.png",
+      "dependencies": []
+    },
+    "취업/프로젝트/funteer/images/funteer-main.gif": {
+      "modifiedTime": 1738730021445,
+      "sourceSize": 2686843,
+      "exportedPath": "취업/프로젝트/funteer/images/funteer-main.gif",
+      "dependencies": []
+    },
+    "취업/프로젝트/funteer/images/mypage.gif": {
+      "modifiedTime": 1738730021445,
+      "sourceSize": 815169,
+      "exportedPath": "취업/프로젝트/funteer/images/mypage.gif",
+      "dependencies": []
+    },
+    "취업/프로젝트/funteer/images/fundingcreate.gif": {
+      "modifiedTime": 1738730021445,
+      "sourceSize": 1221636,
+      "exportedPath": "취업/프로젝트/funteer/images/fundingcreate.gif",
+      "dependencies": []
+    },
+    "취업/프로젝트/funteer/images/fundinglist.gif": {
+      "modifiedTime": 1738730021445,
+      "sourceSize": 1142155,
+      "exportedPath": "취업/프로젝트/funteer/images/fundinglist.gif",
       "dependencies": []
     }
   }
