@@ -1,23 +1,25 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1738752922247,
+  "lastExport": 1738763190788,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "취업/자격증/정보처리기사_2024_09_10.png",
-    "취업/자격증/OPIc_Eng_2024_05_22.png",
     "취업/자격증/SQLD_2024_09_20.png",
+    "취업/자격증/OPIc_Eng_2024_05_22.png",
+    "취업/프로젝트/Funteer/images/architecture.png",
     "취업/프로젝트/Funteer/images/fundingcreate.gif",
     "취업/프로젝트/Funteer/images/fundinglist.gif",
     "취업/프로젝트/Funteer/images/funteer-main.gif",
+    "취업/프로젝트/Funteer/images/login_auth_flow.png",
     "취업/프로젝트/Funteer/images/mypage.gif",
     "취업/프로젝트/Funteer/프로젝트 소개.md",
     "취업/프로젝트/Onthemars/images/로그인.gif",
-    "취업/프로젝트/Onthemars/images/아키텍처.excalidraw.png",
+    "취업/프로젝트/Onthemars/images/아키텍처.png",
     "취업/프로젝트/Onthemars/images/CICD_ 1.png",
-    "취업/프로젝트/Onthemars/images/metamask_login_flow.excalidraw.png",
+    "취업/프로젝트/Onthemars/images/metamask_login_flow.png",
     "취업/프로젝트/Onthemars/images/mypage.gif",
     "취업/프로젝트/Onthemars/images/NFT상세.gif",
     "취업/프로젝트/Onthemars/images/nft조합.gif",
@@ -28,10 +30,10 @@
     "취업/프로젝트/Repomon/images/레포지토리 상세.gif",
     "취업/프로젝트/Repomon/images/마이페이지 및 크롬 확장프로그램.gif",
     "취업/프로젝트/Repomon/images/메인 페이지.gif",
-    "취업/프로젝트/Repomon/images/아키텍처.excalidraw.png",
+    "취업/프로젝트/Repomon/images/아키텍처.png",
     "취업/프로젝트/Repomon/images/캐릭터 카드 생성.png",
     "취업/프로젝트/Repomon/images/architecture.png",
-    "취업/프로젝트/Repomon/images/github api request flow.excalidraw.png",
+    "취업/프로젝트/Repomon/images/github api request flow.png",
     "취업/프로젝트/Repomon/프로젝트 소개.md",
     "취업/images/profile_50per.png",
     "취업/포트폴리오.md",
@@ -91,194 +93,207 @@
   ],
   "fileInfo": {
     "취업/자격증/정보처리기사_2024_09_10.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 83128,
       "exportedPath": "취업/자격증/정보처리기사_2024_09_10.png",
       "dependencies": []
     },
-    "취업/자격증/OPIc_Eng_2024_05_22.png": {
-      "modifiedTime": 1738752922247,
-      "sourceSize": 140814,
-      "exportedPath": "취업/자격증/opic_eng_2024_05_22.png",
-      "dependencies": []
-    },
     "취업/자격증/SQLD_2024_09_20.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 64149,
       "exportedPath": "취업/자격증/sqld_2024_09_20.png",
       "dependencies": []
     },
+    "취업/자격증/OPIc_Eng_2024_05_22.png": {
+      "modifiedTime": 1738763190788,
+      "sourceSize": 140814,
+      "exportedPath": "취업/자격증/opic_eng_2024_05_22.png",
+      "dependencies": []
+    },
+    "취업/프로젝트/Funteer/images/architecture.png": {
+      "modifiedTime": 1738763190788,
+      "sourceSize": 239758,
+      "exportedPath": "취업/프로젝트/funteer/images/architecture.png",
+      "dependencies": []
+    },
     "취업/프로젝트/Funteer/images/fundingcreate.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1221636,
       "exportedPath": "취업/프로젝트/funteer/images/fundingcreate.gif",
       "dependencies": []
     },
     "취업/프로젝트/Funteer/images/fundinglist.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1142155,
       "exportedPath": "취업/프로젝트/funteer/images/fundinglist.gif",
       "dependencies": []
     },
     "취업/프로젝트/Funteer/images/funteer-main.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 2686843,
       "exportedPath": "취업/프로젝트/funteer/images/funteer-main.gif",
       "dependencies": []
     },
+    "취업/프로젝트/Funteer/images/login_auth_flow.png": {
+      "modifiedTime": 1738763190788,
+      "sourceSize": 491758,
+      "exportedPath": "취업/프로젝트/funteer/images/login_auth_flow.png",
+      "dependencies": []
+    },
     "취업/프로젝트/Funteer/images/mypage.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 815169,
       "exportedPath": "취업/프로젝트/funteer/images/mypage.gif",
       "dependencies": []
     },
     "취업/프로젝트/Funteer/프로젝트 소개.md": {
-      "modifiedTime": 1738752922247,
-      "sourceSize": 3478,
+      "modifiedTime": 1738763190788,
+      "sourceSize": 3772,
       "exportedPath": "취업/프로젝트/funteer/프로젝트-소개.html",
       "dependencies": [
         "취업/프로젝트/funteer/images/funteer-main.gif",
         "취업/프로젝트/funteer/images/mypage.gif",
         "취업/프로젝트/funteer/images/fundingcreate.gif",
-        "취업/프로젝트/funteer/images/fundinglist.gif"
+        "취업/프로젝트/funteer/images/fundinglist.gif",
+        "취업/프로젝트/funteer/images/architecture.png"
       ]
     },
     "취업/프로젝트/Onthemars/images/로그인.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1035958,
       "exportedPath": "취업/프로젝트/onthemars/images/로그인.gif",
       "dependencies": []
     },
-    "취업/프로젝트/Onthemars/images/아키텍처.excalidraw.png": {
-      "modifiedTime": 1738752922247,
+    "취업/프로젝트/Onthemars/images/아키텍처.png": {
+      "modifiedTime": 1738763190788,
       "sourceSize": 227481,
-      "exportedPath": "취업/프로젝트/onthemars/images/아키텍처.excalidraw.png",
+      "exportedPath": "취업/프로젝트/onthemars/images/아키텍처.png",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/images/CICD_ 1.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 136255,
       "exportedPath": "취업/프로젝트/onthemars/images/cicd_-1.png",
       "dependencies": []
     },
-    "취업/프로젝트/Onthemars/images/metamask_login_flow.excalidraw.png": {
-      "modifiedTime": 1738752922247,
+    "취업/프로젝트/Onthemars/images/metamask_login_flow.png": {
+      "modifiedTime": 1738763190788,
       "sourceSize": 301725,
-      "exportedPath": "취업/프로젝트/onthemars/images/metamask_login_flow.excalidraw.png",
+      "exportedPath": "취업/프로젝트/onthemars/images/metamask_login_flow.png",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/images/mypage.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1423317,
       "exportedPath": "취업/프로젝트/onthemars/images/mypage.gif",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/images/NFT상세.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 4016002,
       "exportedPath": "취업/프로젝트/onthemars/images/nft상세.gif",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/images/nft조합.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1692948,
       "exportedPath": "취업/프로젝트/onthemars/images/nft조합.gif",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/images/RabbitMQ_after.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 91303,
       "exportedPath": "취업/프로젝트/onthemars/images/rabbitmq_after.png",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/images/RabbitMQ_before.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 69775,
       "exportedPath": "취업/프로젝트/onthemars/images/rabbitmq_before.png",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/images/Service 1.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 59004,
       "exportedPath": "취업/프로젝트/onthemars/images/service-1.png",
       "dependencies": []
     },
     "취업/프로젝트/Onthemars/프로젝트 소개.md": {
-      "modifiedTime": 1738752922247,
-      "sourceSize": 8366,
+      "modifiedTime": 1738763190788,
+      "sourceSize": 8344,
       "exportedPath": "취업/프로젝트/onthemars/프로젝트-소개.html",
       "dependencies": [
         "취업/프로젝트/onthemars/images/로그인.gif",
         "취업/프로젝트/onthemars/images/mypage.gif",
         "취업/프로젝트/onthemars/images/nft상세.gif",
         "취업/프로젝트/onthemars/images/nft조합.gif",
-        "취업/프로젝트/onthemars/images/아키텍처.excalidraw.png",
+        "취업/프로젝트/onthemars/images/아키텍처.png",
         "취업/프로젝트/onthemars/images/rabbitmq_before.png",
         "취업/프로젝트/onthemars/images/rabbitmq_after.png"
       ]
     },
     "취업/프로젝트/Repomon/images/레포지토리 상세.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1940075,
       "exportedPath": "취업/프로젝트/repomon/images/레포지토리-상세.gif",
       "dependencies": []
     },
     "취업/프로젝트/Repomon/images/마이페이지 및 크롬 확장프로그램.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1595687,
       "exportedPath": "취업/프로젝트/repomon/images/마이페이지-및-크롬-확장프로그램.gif",
       "dependencies": []
     },
     "취업/프로젝트/Repomon/images/메인 페이지.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 2942220,
       "exportedPath": "취업/프로젝트/repomon/images/메인-페이지.gif",
       "dependencies": []
     },
-    "취업/프로젝트/Repomon/images/아키텍처.excalidraw.png": {
-      "modifiedTime": 1738752922247,
+    "취업/프로젝트/Repomon/images/아키텍처.png": {
+      "modifiedTime": 1738763190788,
       "sourceSize": 274719,
-      "exportedPath": "취업/프로젝트/repomon/images/아키텍처.excalidraw.png",
+      "exportedPath": "취업/프로젝트/repomon/images/아키텍처.png",
       "dependencies": []
     },
     "취업/프로젝트/Repomon/images/캐릭터 카드 생성.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 98993,
       "exportedPath": "취업/프로젝트/repomon/images/캐릭터-카드-생성.png",
       "dependencies": []
     },
     "취업/프로젝트/Repomon/images/architecture.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 179915,
       "exportedPath": "취업/프로젝트/repomon/images/architecture.png",
       "dependencies": []
     },
-    "취업/프로젝트/Repomon/images/github api request flow.excalidraw.png": {
-      "modifiedTime": 1738752922247,
+    "취업/프로젝트/Repomon/images/github api request flow.png": {
+      "modifiedTime": 1738763190788,
       "sourceSize": 251571,
-      "exportedPath": "취업/프로젝트/repomon/images/github-api-request-flow.excalidraw.png",
+      "exportedPath": "취업/프로젝트/repomon/images/github-api-request-flow.png",
       "dependencies": []
     },
     "취업/프로젝트/Repomon/프로젝트 소개.md": {
-      "modifiedTime": 1738752922247,
-      "sourceSize": 4813,
+      "modifiedTime": 1738763190788,
+      "sourceSize": 4791,
       "exportedPath": "취업/프로젝트/repomon/프로젝트-소개.html",
       "dependencies": [
         "취업/프로젝트/repomon/images/메인-페이지.gif",
         "취업/프로젝트/repomon/images/마이페이지-및-크롬-확장프로그램.gif",
         "취업/프로젝트/repomon/images/레포지토리-상세.gif",
         "취업/프로젝트/repomon/images/캐릭터-카드-생성.png",
-        "취업/프로젝트/repomon/images/아키텍처.excalidraw.png"
+        "취업/프로젝트/repomon/images/아키텍처.png"
       ]
     },
     "취업/images/profile_50per.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 60532,
       "exportedPath": "취업/images/profile_50per.png",
       "dependencies": []
     },
     "취업/포트폴리오.md": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 7957,
       "exportedPath": "취업/포트폴리오.html",
       "dependencies": [
@@ -286,253 +301,259 @@
       ]
     },
     "취업/포트폴리오.html": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 58374,
       "exportedPath": "취업/포트폴리오.html",
       "dependencies": []
     },
     "취업/프로젝트/funteer/images/funteer-main.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 2686843,
       "exportedPath": "취업/프로젝트/funteer/images/funteer-main.gif",
       "dependencies": []
     },
     "취업/프로젝트/funteer/images/mypage.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 815169,
       "exportedPath": "취업/프로젝트/funteer/images/mypage.gif",
       "dependencies": []
     },
     "취업/프로젝트/funteer/images/fundingcreate.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1221636,
       "exportedPath": "취업/프로젝트/funteer/images/fundingcreate.gif",
       "dependencies": []
     },
     "취업/프로젝트/funteer/images/fundinglist.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1142155,
       "exportedPath": "취업/프로젝트/funteer/images/fundinglist.gif",
       "dependencies": []
     },
+    "취업/프로젝트/funteer/images/architecture.png": {
+      "modifiedTime": 1738763190788,
+      "sourceSize": 239758,
+      "exportedPath": "취업/프로젝트/funteer/images/architecture.png",
+      "dependencies": []
+    },
     "취업/프로젝트/onthemars/images/로그인.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1035958,
       "exportedPath": "취업/프로젝트/onthemars/images/로그인.gif",
       "dependencies": []
     },
     "취업/프로젝트/onthemars/images/mypage.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1423317,
       "exportedPath": "취업/프로젝트/onthemars/images/mypage.gif",
       "dependencies": []
     },
     "취업/프로젝트/onthemars/images/nft상세.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 4016002,
       "exportedPath": "취업/프로젝트/onthemars/images/nft상세.gif",
       "dependencies": []
     },
     "취업/프로젝트/onthemars/images/nft조합.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1692948,
       "exportedPath": "취업/프로젝트/onthemars/images/nft조합.gif",
       "dependencies": []
     },
-    "취업/프로젝트/onthemars/images/아키텍처.excalidraw.png": {
-      "modifiedTime": 1738752922247,
+    "취업/프로젝트/onthemars/images/아키텍처.png": {
+      "modifiedTime": 1738763190788,
       "sourceSize": 227481,
-      "exportedPath": "취업/프로젝트/onthemars/images/아키텍처.excalidraw.png",
+      "exportedPath": "취업/프로젝트/onthemars/images/아키텍처.png",
       "dependencies": []
     },
     "취업/프로젝트/onthemars/images/rabbitmq_before.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 69775,
       "exportedPath": "취업/프로젝트/onthemars/images/rabbitmq_before.png",
       "dependencies": []
     },
     "취업/프로젝트/onthemars/images/rabbitmq_after.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 91303,
       "exportedPath": "취업/프로젝트/onthemars/images/rabbitmq_after.png",
       "dependencies": []
     },
     "취업/프로젝트/repomon/images/메인-페이지.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 2942220,
       "exportedPath": "취업/프로젝트/repomon/images/메인-페이지.gif",
       "dependencies": []
     },
     "취업/프로젝트/repomon/images/마이페이지-및-크롬-확장프로그램.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1595687,
       "exportedPath": "취업/프로젝트/repomon/images/마이페이지-및-크롬-확장프로그램.gif",
       "dependencies": []
     },
     "취업/프로젝트/repomon/images/레포지토리-상세.gif": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1940075,
       "exportedPath": "취업/프로젝트/repomon/images/레포지토리-상세.gif",
       "dependencies": []
     },
     "취업/프로젝트/repomon/images/캐릭터-카드-생성.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 98993,
       "exportedPath": "취업/프로젝트/repomon/images/캐릭터-카드-생성.png",
       "dependencies": []
     },
-    "취업/프로젝트/repomon/images/아키텍처.excalidraw.png": {
-      "modifiedTime": 1738752922247,
+    "취업/프로젝트/repomon/images/아키텍처.png": {
+      "modifiedTime": 1738763190788,
       "sourceSize": 274719,
-      "exportedPath": "취업/프로젝트/repomon/images/아키텍처.excalidraw.png",
+      "exportedPath": "취업/프로젝트/repomon/images/아키텍처.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738752922247,
-      "sourceSize": 36168,
+      "modifiedTime": 1738763190788,
+      "sourceSize": 37830,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 2211,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 29047,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 303,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 1559,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1738752922247,
+      "modifiedTime": 1738763190788,
       "sourceSize": 46622,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
