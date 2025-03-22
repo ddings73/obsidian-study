@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1741416432845,
+  "lastExport": 1742625901259,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": true,
@@ -19,6 +19,7 @@
     "공부/Network.md",
     "공부/OIDC Login( OAuth2.0 )요청 흐름.md",
     "공부/ORM과 SQL Mapper.md",
+    "공부/Pasted Image 20250315205713_441.png",
     "공부/Web Application과 Spring 동작.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -78,19 +79,19 @@
   ],
   "fileInfo": {
     "공부/이미지/1-hexagonal-architecture.png": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 119443,
       "exportedPath": "공부/이미지/1-hexagonal-architecture.png",
       "dependencies": []
     },
     "공부/이미지/3-Tier 아키텍처.png": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 65700,
       "exportedPath": "공부/이미지/3-tier-아키텍처.png",
       "dependencies": []
     },
     "공부/헥사고날 아키텍처.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 8908,
       "exportedPath": "공부/헥사고날-아키텍처.html",
       "dependencies": [
@@ -99,231 +100,237 @@
       ]
     },
     "공부/이미지/3-tier-아키텍처.png": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 65700,
       "exportedPath": "공부/이미지/3-tier-아키텍처.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1741416432845,
-      "sourceSize": 12761,
+      "modifiedTime": 1742625901259,
+      "sourceSize": 13629,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 2211,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 29047,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 303,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 46622,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 7679,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "공부/데이터베이스.md": {
-      "modifiedTime": 1741416432845,
-      "sourceSize": 343212,
+      "modifiedTime": 1742625901259,
+      "sourceSize": 343164,
       "exportedPath": "공부/데이터베이스.html",
       "dependencies": []
     },
     "공부/컴퓨터 구조.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 51423,
       "exportedPath": "공부/컴퓨터-구조.html",
       "dependencies": []
     },
     "공부/프록시.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 23913,
       "exportedPath": "공부/프록시.html",
       "dependencies": []
     },
     "공부/CORS, XSS, CSRF.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 27649,
       "exportedPath": "공부/cors,-xss,-csrf.html",
       "dependencies": []
     },
     "공부/Json Web Token.md": {
-      "modifiedTime": 1741416432845,
-      "sourceSize": 21532,
+      "modifiedTime": 1742625901259,
+      "sourceSize": 23057,
       "exportedPath": "공부/json-web-token.html",
       "dependencies": []
     },
     "공부/Network.md": {
-      "modifiedTime": 1741416432845,
-      "sourceSize": 97918,
+      "modifiedTime": 1742625901259,
+      "sourceSize": 103081,
       "exportedPath": "공부/network.html",
       "dependencies": []
     },
     "공부/OIDC Login( OAuth2.0 )요청 흐름.md": {
-      "modifiedTime": 1741416432845,
-      "sourceSize": 27155,
+      "modifiedTime": 1742625901259,
+      "sourceSize": 33002,
       "exportedPath": "공부/oidc-login(-oauth2.0-)요청-흐름.html",
       "dependencies": []
     },
     "공부/ORM과 SQL Mapper.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 36316,
       "exportedPath": "공부/orm과-sql-mapper.html",
       "dependencies": []
     },
     "공부/Web Application과 Spring 동작.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 85058,
       "exportedPath": "공부/web-application과-spring-동작.html",
       "dependencies": []
     },
     "공부/JDK, JRE, JVM.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 76853,
       "exportedPath": "공부/jdk,-jre,-jvm.html",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 1637,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "공부/Java 기초.md": {
-      "modifiedTime": 1741416432845,
+      "modifiedTime": 1742625901259,
       "sourceSize": 32010,
       "exportedPath": "공부/java-기초.html",
+      "dependencies": []
+    },
+    "공부/Pasted Image 20250315205713_441.png": {
+      "modifiedTime": 1742625901259,
+      "sourceSize": 82165,
+      "exportedPath": "공부/pasted-image-20250315205713_441.png",
       "dependencies": []
     }
   }
